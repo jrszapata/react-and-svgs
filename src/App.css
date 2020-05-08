@@ -44,8 +44,12 @@
   align-items: center;
 }
 
-.App svg {
+.App .icons svg {
   color: white;
+}
+
+.App .icons svg,
+.App .icons img {
   width: 20px;
   height: 20px;
   margin: 10px;
