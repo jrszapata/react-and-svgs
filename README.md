@@ -1,6 +1,6 @@
 ## Using Svgs in React
 
-This is a simple example of how to include svg into you´re react application.
+This is an example of how to include SVGs into you're react applications.
 
 #### Option 1
 
