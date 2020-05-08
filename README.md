@@ -36,3 +36,7 @@ function App() {
 ```
 
 That's it.
+
+
+## Resources
+- [Font Awesome](https://fontawesome.com/)
