@@ -10,8 +10,9 @@ import React from "react";
 
 export default () => (<svg>...</svg>)
 ```
+
 Now include your new component as you normaly do with any component.
-```
+```js
 # @/src/App.js
 import React from "react";
 import SquareIcon from "./components/SquareIcon.js";
@@ -28,7 +29,6 @@ Place your svg files under a `svgs` directory (or whatever) and load them into t
 # @/src/App.js
 import React from "react";
 import SquareIcon from "./svgs/square.svg";
-
 
 function App() {
   return (<img src={SquareIcon} alt="Square Icon" />);
